@@ -54,3 +54,18 @@ Here are some ideas to get you started:
 	<a href="https://phaser.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/> </a>
 	<a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
+
+### 📊 My Github Stats :
+
+<div align ="center">
+  <a href="https://github.com/monicaps">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=monicaps&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaps&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+  <div align="center">
+    <a href="https://github.com/monicaps">
+      <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monicaps&theme=dark" alt="monicaps" /></p></p>
+    </a>
+  </div>
