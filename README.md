@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Monica Portillo</h1>
-<h3 align="center">A passionate Web Developer, Information Technology Engineering Intern and Cloud Computing Student</h3>
+<h3 align="center">A passionate Web Developer, Information Technology Engineer, X-Women Cofounder, Bécalas Mentor and Cloud Computing Student</h3>
 
 ![](https://komarev.com/ghpvc/?username=monicaps&label=Profile+Views&style=flat-square&color=blue)
 <!--
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my thesis project.
+- 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning cloud computing with Azure and GCP and backend with Node JS.
+- 👯 I’m looking to collaborate on communities, mentoring and collaborative projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
